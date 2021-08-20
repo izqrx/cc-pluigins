@@ -1,0 +1,7 @@
+{
+    "name": "gameActivityButton",
+    "description": "Adds a button to quickly toggle game activity.",
+    "author": "Zarx",
+    "file": "index.js",
+    "license": "Apache-2.0"
+}
